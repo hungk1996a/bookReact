@@ -1,0 +1,4 @@
+.env
+config
+knexfile.js
+package.json
